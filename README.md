@@ -15,13 +15,6 @@ A classic Hangman word guessing game built using Python and Tkinter, featuring a
 
 ---
 
-#### Screenshots
-
-![Screenshot of the Hangman game UI](link_to_screenshot.png)   
-*(Replace the above link with actual screenshot URL)
-
----
-
 #### Installation
 
 1. Make sure you have Python 3 installed. You can download it from [python.org](https://www.python.org/downloads/).
